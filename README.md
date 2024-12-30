@@ -9,7 +9,7 @@ Welcome to **Fakhani**, the ultimate E-commerce fruit app! Fakhani makes it easi
 
 ### 2. **Search and Filter**
    - Quickly search for your favorite fruits or filter by categories,
-    price, and more to find exactly what you're looking for.
+     price, and more to find exactly what you're looking for.
 
 ### 3. **Notifications**
    - Stay updated with real-time notifications for:
