@@ -8,7 +8,8 @@ Welcome to **Fakhani**, the ultimate E-commerce fruit app! Fakhani makes it easi
    - Users can sign in using their Google, Apple, or Facebook accounts for a seamless and secure login process.
 
 ### 2. **Search and Filter**
-   - Quickly search for your favorite fruits or filter by categories, price, and more to find exactly what you're looking for.
+   - Quickly search for your favorite fruits or filter by categories,
+    price, and more to find exactly what you're looking for.
 
 ### 3. **Notifications**
    - Stay updated with real-time notifications for:
