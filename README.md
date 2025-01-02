@@ -66,17 +66,20 @@ Welcome to **Fakhani**, the ultimate E-commerce fruit app! Fakhani makes it easi
 
 - Add your favorite fruits to the wishlist and purchase them later when you are ready.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- **Flutter**: A cross-platform framework for building natively compiled applications.
-- **Dart** Programming languages used for development.
-- **Firebase Authentication**: For easy and secure login using Google, Apple, and Facebook.
-- **Stripe & PayPal SDK**: For payment processing.
-- **Firebase Cloud Messaging (FCM)**: To send real-time notifications.
-- **Bloc/Cubit**: State management for managing app state.
-- **Dio** and **Retrofit**: For handling API requests and responses.
+- **📱 Flutter**: A cross-platform framework for building natively compiled applications.
+- **👩‍💻 Dart** Programming languages used for development.
+- **📊 Firebase Authentication**: For easy and secure login using Google, Apple, and Facebook.
+- **💳 Stripe & PayPal SDK**: For payment processing.
+- **✉ Firebase Cloud Messaging (FCM)**: To send real-time notifications.
+- **🔵 Bloc/Cubit**: State management for managing app state.
+- **🌐 Dio** and **Retrofit**: For handling API requests and responses.
+- **🚀 CI/CD**: with Firebase App Distribution, Fastlane, and GitHub Actions: Streamlined the development process by automating workflows and deployments.
+- **🍓 Flutter flavors**: Adapted the app for various environments seamlessly.
 
-Contact
+## 📞 Contact
+
 For any inquiries or support, feel free to reach out:
 
 - Email: <hussein.mohmed1907@gmail.com>
