@@ -17,44 +17,54 @@ Welcome to **Fakhani**, the ultimate E-commerce fruit app! Fakhani makes it easi
 ## Features
 
 ### 1. **Sign In with Google, Apple, and Facebook**
-   - Users can sign in using their Google, Apple, or Facebook accounts for a seamless and secure login process.
+
+- Users can sign in using their Google, Apple, or Facebook accounts for a seamless and secure login process.
 
 ### 2. **Search and Filter**
-   - Quickly search for your favorite fruits or filter by categories,
+
+- Quickly search for your favorite fruits or filter by categories,
      price, and more to find exactly what you're looking for.
 
 ### 3. **Notifications**
-   - Stay updated with real-time notifications for:
-     - Order status
-     - New arrivals
-     - Special promotions and discounts
+
+- Stay updated with real-time notifications for:
+- Order status
+- New arrivals
+- Special promotions and discounts
 
 ### 4. **Cart**
-   - Add fruits to your cart and view the total price. You can easily edit the cart before proceeding to checkout.
+
+- Add fruits to your cart and view the total price. You can easily edit the cart before proceeding to checkout.
 
 ### 5. **Review**
-   - After purchasing, leave ratings and reviews for products to help other customers make informed decisions.
+
+- After purchasing, leave ratings and reviews for products to help other customers make informed decisions.
 
 ### 6. **Payment Options**
-   - Choose from various secure payment methods:
-     - **Visa**
-     - **Mastercard**
-     - **PayPal**
-     - **Apple Pay**
+
+- Choose from various secure payment methods:
+- **Visa**
+- **Mastercard**
+- **PayPal**
+- **Apple Pay**
 
 ### 7. **Tracking Order**
-   - Track your order status from purchase to delivery in real-time.
+
+- Track your order status from purchase to delivery in real-time.
 
 ### 8. **Theming**
-   - Customize your app’s look with different themes, including:
-     - **Light mode** for a vibrant interface
-     - **Dark mode** for a sleek and modern experience
+
+- Customize your app’s look with different themes, including:
+- **Light mode** for a vibrant interface
+- **Dark mode** for a sleek and modern experience
 
 ### 9. **Localization**
-   - The app supports multiple languages, making it accessible for users from different regions.
+
+- The app supports multiple languages, making it accessible for users from different regions.
 
 ### 10. **Wishlist**
-   - Add your favorite fruits to the wishlist and purchase them later when you are ready.
+
+- Add your favorite fruits to the wishlist and purchase them later when you are ready.
 
 ## Technologies Used
 
@@ -66,11 +76,9 @@ Welcome to **Fakhani**, the ultimate E-commerce fruit app! Fakhani makes it easi
 - **Bloc/Cubit**: State management for managing app state.
 - **Dio** and **Retrofit**: For handling API requests and responses.
 
-
-
 Contact
 For any inquiries or support, feel free to reach out:
 
-- Email: hussein.mohmed1907@gmail.com
-- GitHub: https://github.com/HusseinMohamed99/Fakhani
+- Email: <hussein.mohmed1907@gmail.com>
 
+- GitHub: <https://github.com/HusseinMohamed99/Fakhani>
