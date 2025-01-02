@@ -2,6 +2,18 @@
 
 Welcome to **Fakhani**, the ultimate E-commerce fruit app! Fakhani makes it easier than ever to browse, purchase, and manage your fruit-related orders with a smooth and user-friendly interface. Experience hassle-free fruit shopping with secure login options, flexible payment methods, real-time order tracking, and much more.
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-flutter.svg)](https://flutter.dev/)
+
+## Languages and Technologies
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 ## Features
 
 ### 1. **Sign In with Google, Apple, and Facebook**
@@ -61,3 +73,4 @@ For any inquiries or support, feel free to reach out:
 
 - Email: hussein.mohmed1907@gmail.com
 - GitHub: https://github.com/HusseinMohamed99/Fakhani
+
